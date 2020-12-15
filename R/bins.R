@@ -1,4 +1,3 @@
-###### Bins functions ######
 
 #' Classifies variables according to bins
 #'
