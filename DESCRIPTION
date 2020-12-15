@@ -1,0 +1,15 @@
+Package: lptools
+Title: Local projection tools
+Version: 0.1
+Authors@R: 
+    person(given = "Caio",
+           family = "Machado",
+           role = c("aut", "cre"),
+           email = "caiohm@gmail.com",
+           comment = c(ORCID = "0000-0002-5545-6270"))
+Description: What the package does (one paragraph).
+License: `use_mit_license()`
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
